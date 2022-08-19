@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{875886AA-435B-4B48-93F0-5F0A020A5C5A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Flujo__Autorizacion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="66" Column="39" />
+      <File FileName="Aplicacion/ServicioConfiguracionFlujo.cs" />
+      <File FileName="Aplicacion/IServicioConfiguracionFlujo.cs" />
+      <File FileName="Dominio/IServicioConfiguracionFlujo.cs" />
+      <File FileName="Dominio/ServicioFlujoAutorizacion.cs" />
+      <File FileName="Dominio/ServicioConfiguracionFlujo.cs" />
+      <File FileName="Dominio/Modelo/Flujo.cs" />
+      <File FileName="Dominio/Modelo/Paso.cs" />
+      <File FileName="Dominio/Modelo/ITipoEntePublico.cs" />
+      <File FileName="Dominio/Modelo/INivelEmpleado.cs" />
+      <File FileName="Dominio/Modelo/Rol.cs" />
+      <File FileName="Aplicacion/ServicioFlujoAutorizacion.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flujo_Autorizacion" expanded="True">
+            <Node name="Flujo_Autorizacion" expanded="True">
+              <Node name="Aplicacion" expanded="True" />
+              <Node name="Dominio" expanded="True">
+                <Node name="Modelo" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Dominio/ServicioConfiguracionFlujo.cs" line="42" column="20" endLine="42" endColumn="30" offsetX="-1" offsetY="-1" expression="item.orden" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/haidehaaz/Documents/Flujo_Autorizacion/Dominio/ServicioConfiguracionFlujo.cs" relfile="Dominio/ServicioConfiguracionFlujo.cs" line="15" column="1" />
+      <Breakpoint file="/Users/haidehaaz/Documents/Flujo_Autorizacion/Dominio/ServicioConfiguracionFlujo.cs" relfile="Dominio/ServicioConfiguracionFlujo.cs" line="27" column="1" />
+      <Breakpoint file="/Users/haidehaaz/Documents/Flujo_Autorizacion/Aplicacion/ServicioConfiguracionFlujo.cs" relfile="Aplicacion/ServicioConfiguracionFlujo.cs" line="32" column="1" />
+      <Breakpoint file="/Users/haidehaaz/Documents/Flujo_Autorizacion/Dominio/ServicioConfiguracionFlujo.cs" relfile="Dominio/ServicioConfiguracionFlujo.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

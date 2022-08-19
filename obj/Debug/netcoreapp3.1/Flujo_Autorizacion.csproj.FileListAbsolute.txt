@@ -1,0 +1,39 @@
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.exe
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.deps.json
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.runtimeconfig.json
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.runtimeconfig.dev.json
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.dll
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.pdb
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.csproj.AssemblyReference.cache
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.AssemblyInfoInputs.cache
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.AssemblyInfo.cs
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.csproj.CoreCompileInputs.cache
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.dll
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.pdb
+C:/Users/Israel/Documents/DEV/NET_TFS/APPS/FLUJOS DE AUTORIZACION/FLUJO_AUTORIZACION_API_INICIAL/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.genruntimeconfig.cache
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.AssemblyInfoInputs.cache
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.AssemblyInfo.cs
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.csproj.CoreCompileInputs.cache
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.dll
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.pdb
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.deps.json
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.runtimeconfig.json
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.runtimeconfig.dev.json
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.dll
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.pdb
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.genruntimeconfig.cache
+/Volumes/KINGSTON/FlujoAutorizacion/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.csproj.AssemblyReference.cache
+/Users/haidehaaz/Documents/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.deps.json
+/Users/haidehaaz/Documents/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.runtimeconfig.json
+/Users/haidehaaz/Documents/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.runtimeconfig.dev.json
+/Users/haidehaaz/Documents/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.dll
+/Users/haidehaaz/Documents/Flujo_Autorizacion/bin/Debug/netcoreapp3.1/Flujo_Autorizacion.pdb
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.csproj.AssemblyReference.cache
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.AssemblyInfoInputs.cache
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.AssemblyInfo.cs
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.csproj.CoreCompileInputs.cache
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.dll
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.pdb
+/Users/haidehaaz/Documents/Flujo_Autorizacion/obj/Debug/netcoreapp3.1/Flujo_Autorizacion.genruntimeconfig.cache
